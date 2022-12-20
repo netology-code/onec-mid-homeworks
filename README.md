@@ -1,16 +1,16 @@
 ## Домашние задания на курсе «1С-программист c нуля до MIDDLE»
 
 ## 11. Доработка типовых конфигураций
-11.1	[Расширения](https://github.com/netology-code/onec-mid-homeworks/blob/main/DTK/homework-11-1.md)
+11.1	[Расширения](DTK/homework-11-1.md)
 
-11.2	[Внесение изменений в конфигурацию на поддержке](https://github.com/netology-code/onec-mid-homeworks/blob/main/DTK/homework-11-2.md)
+11.2	[Внесение изменений в конфигурацию на поддержке](DTK/homework-11-2.md)
 
-11.3	[Механизм поддержки, обновление](https://github.com/netology-code/onec-mid-homeworks/blob/main/DTK/homework-11-3.md)
+11.3	[Механизм поддержки, обновление](DTK/homework-11-3.md)
 
 	
 ## 12. Библиотека стандартных подсистем
 
-12.1	Базовые подсистемы
+12.1	[Базовые подсистемы](BSP/homework-12-1.md)
 
 12.2	Программный интерфейс
 
