@@ -12,11 +12,11 @@
 
 12.1	[Базовые подсистемы](BSP/homework-12-1.md)
 
-12.2	Программный интерфейс
+12.2	[Программный интерфейс](https://github.com/netology-code/onec-mid-homeworks/blob/main/BSP/homework-12-2.md)
 
-12.3	Варианты отчетов и печать
+12.3	[Варианты отчетов и печать](https://github.com/netology-code/onec-mid-homeworks/blob/main/BSP/homework-12-3.md)
 
-12.4	Дополнительные отчеты и обработки
+12.4	[Дополнительные отчеты и обработки](https://github.com/netology-code/onec-mid-homeworks/blob/main/BSP/homework-12-4.md)
 	
 ## 13. Дополнительные возможности платформы 1С:Предприятие
 
@@ -33,20 +33,18 @@
 13.6	Командная работа (EDT)
 
 
+## 14. Тестирование
+
+15.1	[Механизмы и инструменты автоматизированного тестирования](https://github.com/netology-code/onec-mid-homeworks/blob/main/TAT/homework-14-1.md)
+
+15.2	[Система тестирования](https://github.com/netology-code/onec-mid-homeworks/blob/main/TAT/homework-14-2.md)
 	
-## 14. Мобильная разработка 1С
+	
+## 15. Мобильная разработка 1С
 
 14.1	Методики разработки мобильных приложений
 
 14.2	Инструмент разработки Eclipse
 
 14.3	Обмен с серверной базой
-
-
-## 15. Тестирование
-
-15.1	Механизмы и инструменты автоматизированного тестирования
-
-15.2	Система тестирования
-	
 
