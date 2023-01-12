@@ -12,11 +12,11 @@
 
 12.1	[Базовые подсистемы](BSP/homework-12-1.md)
 
-12.2	Программный интерфейс
+12.2	[Программный интерфейс](https://github.com/netology-code/onec-mid-homeworks/blob/main/BSP/homework-12-2.md)
 
-12.3	Варианты отчетов и печать
+12.3	[Варианты отчетов и печать](https://github.com/netology-code/onec-mid-homeworks/blob/main/BSP/homework-12-3.md)
 
-12.4	Дополнительные отчеты и обработки
+12.4	[Дополнительные отчеты и обработки](https://github.com/netology-code/onec-mid-homeworks/blob/main/BSP/homework-12-4.md)
 	
 ## 13. Дополнительные возможности платформы 1С:Предприятие
 
