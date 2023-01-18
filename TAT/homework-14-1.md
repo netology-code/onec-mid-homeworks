@@ -8,16 +8,27 @@
 Установить учебную платформу версии 8.3.22 или больше.
 
 ### Задание 1
-1. Скачать Visual studio code (VSCode): "https://code.visualstudio.com/download".
-2. Скачать OneScript: "https://oscript.io/downloads".
-3. Проверить, что в переменной среды Path есть пути "C:\Users\a.karimov\AppData\Local\Programs\Microsoft VS Code\bin" и "C:\Program Files\OneScript\bin" ("C:\Program Files (x86)\OneScript\bin" для 32х разрядной операционной системы). Если не появились - перезагрузить ПК и проверить ещё раз.
-4. Запустить командную строку ("cmd") от имени администратора и ввести команду "where opm" - должно отобразиться путь, куда был установлен OneScript.
+
+1. Скачать OneScript: "https://oscript.io/downloads".
+2. Проверить, что в переменной среды Path есть пути "C:\Users\a.karimov\AppData\Local\Programs\Microsoft VS Code\bin" и "C:\Program Files\OneScript\bin" ("C:\Program Files (x86)\OneScript\bin" для 32х разрядной операционной системы). Если не появились - перезагрузить ПК и проверить ещё раз
+
+3. Запустить командную строку ("cmd") от имени администратора и ввести команду "where opm" - должно отобразиться путь, куда был установлен OneScript.
+*Результат задания:* 
+Скриншот должен отобразиться путь, куда установился OneScript.
+
+
+### Задание 2
 5. Установить библиотеки Vanessa ADD и Vanessa Automation. Для этого необходимо запустить командную строку ("cmd") от имени администратора, после чего по очереди ввести команды "opm install add" и "opm install vanessa-automation". Библиотеки должны установиться по умолчанию тут: "C:\Program Files\OneScript\lib\add" и "C:\Program Files\OneScript\lib\vanessa-automation" ("C:\Program Files (x86)\OneScript\lib\add" и "C:\Program Files (x86)\OneScript\lib\vanessa-automation" для 32х разрядной операционной системы). Если не получилось - скачиваем тут "https://github.com/vanessa-opensource/add/releases" (Vanessa ADD) и тут "https://pr-mex.github.io/vanessa-automation/dev/" (Vanessa Automation).
 6. Настроить тестовую базу для работы с библиотекой тестирования Vanessa ADD и Vanessa Automation (снять безопасный режим, указать параметр /TESTMANAGER).
 
 *Результат задания:* 
+Прислать скриншот с отображением  меннеджератестирования.
 
-### Задание 2*
+### Задание 3
+1. Скачать Visual studio code (VSCode): "https://code.visualstudio.com/download".
+
+
+### Задание 4*
 Описать три примера выявления (возможных или текущих) ошибок для разрабатываемой конфигурации. Создать feature-файл для каждого примера и заполнить его (шаблон смотреть ниже)
 
 
