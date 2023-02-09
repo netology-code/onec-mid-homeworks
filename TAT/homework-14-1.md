@@ -10,9 +10,12 @@
 
 ### Задание 1
 
-1. Скачать OneScript: "https://oscript.io/downloads".
+1. Скачать [OneScript](https://oscript.io/downloads)
 
-2. Проверить, что в переменной среды Path есть пути "C:\Users\a.karimov\AppData\Local\Programs\Microsoft VS Code\bin" и "C:\Program Files\OneScript\bin" ("C:\Program Files (x86)\OneScript\bin" для 32х разрядной операционной системы). 
+2. Проверить, что в переменной среды Path есть пути
+
+"C:\Users\a.karimov\AppData\Local\Programs\Microsoft VS Code\bin"
+"C:\Program Files\OneScript\bin" ("C:\Program Files (x86)\OneScript\bin" для 32х разрядной операционной системы). 
 
 3. Если не появились - перезагрузить ПК и проверить ещё раз
 
@@ -26,17 +29,19 @@
 ### Задание 2
 2.1 Установить библиотеки Vanessa ADD и Vanessa Automation. 
 
-2.2 Для этого необходимо запустить командную строку ("cmd") от имени администратора, после чего по очереди ввести команды "opm install add" и "opm install vanessa-automation". Библиотеки должны установиться по умолчанию тут: "C:\Program Files\OneScript\lib\add" и "C:\Program Files\OneScript\lib\vanessa-automation" ("C:\Program Files (x86)\OneScript\lib\add" и "C:\Program Files (x86)\OneScript\lib\vanessa-automation" для 32х разрядной операционной системы). 
+2.2 Для этого необходимо запустить командную строку ("cmd") от имени администратора, после чего по очереди ввести команды "opm install add" и "opm install vanessa-automation". 
 
-2.3 Если не получилось - скачиваем тут "https://github.com/vanessa-opensource/add/releases" (Vanessa ADD) и тут "https://pr-mex.github.io/vanessa-automation/dev/" (Vanessa Automation).
+Библиотеки должны установиться по умолчанию тут: "C:\Program Files\OneScript\lib\add" и "C:\Program Files\OneScript\lib\vanessa-automation" ("C:\Program Files (x86)\OneScript\lib\add" и "C:\Program Files (x86)\OneScript\lib\vanessa-automation" для 32х разрядной операционной системы). 
 
-2.4 Настроить тестовую базу для работы с библиотекой тестирования Vanessa ADD и Vanessa Automation (снять безопасный режим, указать параметр /TESTMANAGER).
+2.3 Если не получилось - скачиваем тут [Vanessa ADD](https://github.com/vanessa-opensource/add/releases) и тут [Vanessa Automation](https://pr-mex.github.io/vanessa-automation/dev/).
+
+2.4 Настроить тестовую базу для работы с библиотекой тестирования Vanessa ADD и Vanessa Automation. Для этого нужно снять безопасный режим и указать параметр /TESTMANAGER.
 
 *Результат задания:* 
 Для проверки прислать скриншот с отображением  менеджера тестирования.
 
 ### Задание 3
-Скачать Visual studio code (VSCode): "https://code.visualstudio.com/download". 
+Скачать Visual studio code [VSCode](https://code.visualstudio.com/download). 
 Эта программа понадобится для следующей лекции.
 
 
