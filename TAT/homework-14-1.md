@@ -15,8 +15,9 @@
 
 2. Проверить, что в переменной среды Path есть пути
 
-"C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin"
-"C:\Program Files\OneScript\bin" ("C:\Program Files (x86)\OneScript\bin" для 32х разрядной операционной системы). 
+   "C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin"
+    
+   "C:\Program Files\OneScript\bin" ("C:\Program Files (x86)\OneScript\bin" для 32х разрядной операционной системы). 
 
 3. Если не появились - перезагрузить ПК и проверить ещё раз
 
