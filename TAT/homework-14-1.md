@@ -7,6 +7,7 @@
 
 ### Чеклист готовности к домашнему заданию
 Установить учебную платформу версии 8.3.22 или больше.
+Скачать [архив](https://drive.google.com/file/d/1QnZ3fnGMaH7Uueg55w1jTK5fUyipZdEF/view?usp=share_link) и установить Vanessa Automation 
 
 ### Задание 1
 
@@ -14,7 +15,7 @@
 
 2. Проверить, что в переменной среды Path есть пути
 
-"C:\Users\a.karimov\AppData\Local\Programs\Microsoft VS Code\bin"
+"C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin"
 "C:\Program Files\OneScript\bin" ("C:\Program Files (x86)\OneScript\bin" для 32х разрядной операционной системы). 
 
 3. Если не появились - перезагрузить ПК и проверить ещё раз
