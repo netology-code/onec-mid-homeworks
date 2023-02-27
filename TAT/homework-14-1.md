@@ -7,9 +7,10 @@
 Написать три примера работы базы для покрытия функционала автотеста.
 
 ### Чеклист готовности к домашнему заданию
+
 Установить учебную платформу версии 8.3.22 или больше.
 
-Скачать [архив](https://drive.google.com/file/d/1QnZ3fnGMaH7Uueg55w1jTK5fUyipZdEF/view?usp=share_link) и установить Vanessa Automation 
+Скачать [архив](https://drive.google.com/file/d/1QnZ3fnGMaH7Uueg55w1jTK5fUyipZdEF/view?usp=share_link) 
 
 ### Задание 1
 
@@ -31,22 +32,24 @@
 
 
 ### Задание 2
-2.1 Установить библиотеки Vanessa ADD и Vanessa Automation. 
+2.1 Установить библиотеки Vanessa ADD и Vanessa Automation для Учебной версии из [архива](https://drive.google.com/file/d/1QnZ3fnGMaH7Uueg55w1jTK5fUyipZdEF/view?usp=share_link) и установить Vanessa Automation . 
 
 2.2 Для этого необходимо запустить командную строку ("cmd") от имени администратора, после чего по очереди ввести команды "opm install add" и "opm install vanessa-automation". 
 
 Библиотеки должны установиться по умолчанию тут: "C:\Program Files\OneScript\lib\add" и "C:\Program Files\OneScript\lib\vanessa-automation" ("C:\Program Files (x86)\OneScript\lib\add" и "C:\Program Files (x86)\OneScript\lib\vanessa-automation" для 32х разрядной операционной системы). 
 
-2.3 Если не получилось - скачиваем тут [Vanessa ADD](https://github.com/vanessa-opensource/add/releases) и тут [Vanessa Automation](https://pr-mex.github.io/vanessa-automation/dev/).
+2.3 Настроить тестовую базу для работы с библиотекой тестирования Vanessa ADD и Vanessa Automation. Для этого нужно снять безопасный режим и указать параметр /TESTMANAGER.
 
-2.4 Настроить тестовую базу для работы с библиотекой тестирования Vanessa ADD и Vanessa Automation. Для этого нужно снять безопасный режим и указать параметр /TESTMANAGER.
+Если установка производится на другую версию платформы, то следует библиотеки следует скачать тут [Vanessa ADD](https://github.com/vanessa-opensource/add/releases) и тут [Vanessa Automation](https://pr-mex.github.io/vanessa-automation/dev/).
+
+
 
 *Результат задания:* 
-Для проверки прислать скриншот с отображением  менеджера тестирования.
+Для проверки установки следует прислать скриншот с отображением окна менеджера тестирования.
 
 ### Задание 3
 Скачать Visual studio code [VSCode](https://code.visualstudio.com/download). 
-Эта программа понадобится для следующей лекции.
+(Эта программа понадобится для следующей лекции).
 
 
 ### Задание 4
@@ -94,7 +97,7 @@
 ### Правила приема работы
 
 В личном кабинете студента отправлены:
-Ссылка на Google - документ
+Ссылка на Google - документ со скриншотами, подтвержающими выполнение заданий.
 
 
 ------
