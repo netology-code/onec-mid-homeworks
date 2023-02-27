@@ -10,49 +10,40 @@
 
 Установить учебную платформу версии 8.3.22 или больше.
 
-Скачать [архив](https://drive.google.com/file/d/1QnZ3fnGMaH7Uueg55w1jTK5fUyipZdEF/view?usp=share_link) 
+Скачать [архив](https://drive.google.com/file/d/1QnZ3fnGMaH7Uueg55w1jTK5fUyipZdEF/view?usp=share_link) с дистрибутивом Vanessa automation
 
 ### Задание 1
 
-Скачать и установить Visual studio code [VSCode](https://code.visualstudio.com/download). 
-(Эта программа понадобится для следующей лекции).
+1. Скачать и установить Visual studio code [VSCode](https://code.visualstudio.com/download). (Эта программа понадобится для следующей лекции).
+
+2. Проверить, что VSCode установился корректно: для этого запустим командную строку (CMD) и напишем простую команду "Code" и выполним её. Если при выполнении откроется окно программы VSCode, значит всё установилось корректно.
+
+3. Если команда не работает - перезагрузить ПК. 
+ 
+*Результат задания:* 
+Скриншот, на котором будет видно, что команда "Code" выполнилась корректно и открылось окно программы VSCode.
 
 ### Задание 2
 
-1. Скачать [OneScript](https://oscript.io/downloads)
+1. Скачать [OneScript](https://oscript.io/downloads).
 
-2. Проверить, что в переменной среды Path есть пути
+2. Запустить командную строку (CMD) от имени администратора и ввести команду "where opm" - должен отобразиться путь, куда был установлен OneScript.
 
-   "C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin"
-    
-   "C:\Program Files\OneScript\bin" ("C:\Program Files (x86)\OneScript\bin" для 32х разрядной операционной системы). 
-
-3. Если не появились - перезагрузить ПК и проверить ещё раз
-
-4. Запустить командную строку ("cmd") от имени администратора и ввести команду "where opm" - должен отобразиться путь, куда был установлен OneScript.
-
+3. Если команда не работает - перезагрузить ПК.
 
 *Результат задания:* 
 Скриншот, на котором должен отобразиться путь, куда установился OneScript.
 
 
 ### Задание 3
-2.1 Установить библиотеки Vanessa ADD и Vanessa Automation для Учебной версии из [архива](https://drive.google.com/file/d/1QnZ3fnGMaH7Uueg55w1jTK5fUyipZdEF/view?usp=share_link). 
+2.1 Установить библиотеку Vanessa Automation для Учебной версии из [архива](https://drive.google.com/file/d/1QnZ3fnGMaH7Uueg55w1jTK5fUyipZdEF/view?usp=share_link). 
 
-2.2 Для этого необходимо запустить командную строку ("cmd") от имени администратора, после чего по очереди ввести команды "opm install add" и "opm install vanessa-automation". 
+2.2 Настроить тестовую базу для работы с библиотекой тестирования Vanessa Automation. Для этого нужно снять безопасный режим и указать параметр /TESTMANAGER.
 
-Библиотеки должны установиться по умолчанию тут: "C:\Program Files\OneScript\lib\add" и "C:\Program Files\OneScript\lib\vanessa-automation" ("C:\Program Files (x86)\OneScript\lib\add" и "C:\Program Files (x86)\OneScript\lib\vanessa-automation" для 32х разрядной операционной системы). 
-
-2.3 Настроить тестовую базу для работы с библиотекой тестирования Vanessa ADD и Vanessa Automation. Для этого нужно снять безопасный режим и указать параметр /TESTMANAGER.
-
-Если установка производится на другую версию платформы, то следует библиотеки следует скачать тут [Vanessa ADD](https://github.com/vanessa-opensource/add/releases) и тут [Vanessa Automation](https://pr-mex.github.io/vanessa-automation/dev/).
-
-
+Если установка производится на другую версию платформы, то библиотеки следует скачать тут [Vanessa Automation](https://pr-mex.github.io/vanessa-automation/dev/).
 
 *Результат задания:* 
 Для проверки установки следует прислать скриншот с отображением окна менеджера тестирования.
-
-
 
 
 ### Задание 4
