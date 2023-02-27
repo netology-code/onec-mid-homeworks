@@ -32,7 +32,7 @@
 
 
 ### Задание 2
-2.1 Установить библиотеки Vanessa ADD и Vanessa Automation для Учебной версии из [архива](https://drive.google.com/file/d/1QnZ3fnGMaH7Uueg55w1jTK5fUyipZdEF/view?usp=share_link) и установить Vanessa Automation . 
+2.1 Установить библиотеки Vanessa ADD и Vanessa Automation для Учебной версии из [архива](https://drive.google.com/file/d/1QnZ3fnGMaH7Uueg55w1jTK5fUyipZdEF/view?usp=share_link). 
 
 2.2 Для этого необходимо запустить командную строку ("cmd") от имени администратора, после чего по очереди ввести команды "opm install add" и "opm install vanessa-automation". 
 
