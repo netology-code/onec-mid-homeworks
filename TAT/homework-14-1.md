@@ -14,6 +14,11 @@
 
 ### Задание 1
 
+Скачать и установить Visual studio code [VSCode](https://code.visualstudio.com/download). 
+(Эта программа понадобится для следующей лекции).
+
+### Задание 2
+
 1. Скачать [OneScript](https://oscript.io/downloads)
 
 2. Проверить, что в переменной среды Path есть пути
@@ -31,7 +36,7 @@
 Скриншот, на котором должен отобразиться путь, куда установился OneScript.
 
 
-### Задание 2
+### Задание 3
 2.1 Установить библиотеки Vanessa ADD и Vanessa Automation для Учебной версии из [архива](https://drive.google.com/file/d/1QnZ3fnGMaH7Uueg55w1jTK5fUyipZdEF/view?usp=share_link). 
 
 2.2 Для этого необходимо запустить командную строку ("cmd") от имени администратора, после чего по очереди ввести команды "opm install add" и "opm install vanessa-automation". 
@@ -47,9 +52,7 @@
 *Результат задания:* 
 Для проверки установки следует прислать скриншот с отображением окна менеджера тестирования.
 
-### Задание 3
-Скачать Visual studio code [VSCode](https://code.visualstudio.com/download). 
-(Эта программа понадобится для следующей лекции).
+
 
 
 ### Задание 4
