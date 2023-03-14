@@ -35,18 +35,18 @@
 
 ## 14. Тестирование
 
-15.1	[Механизмы и инструменты автоматизированного тестирования](https://github.com/netology-code/onec-mid-homeworks/blob/main/TAT/homework-14-1.md)
+14.1	[Механизмы и инструменты автоматизированного тестирования](https://github.com/netology-code/onec-mid-homeworks/blob/main/TAT/homework-14-1.md)
 
-15.2	[Система тестирования](https://github.com/netology-code/onec-mid-homeworks/blob/main/TAT/homework-14-2.md)
+14.2	[Система тестирования](https://github.com/netology-code/onec-mid-homeworks/blob/main/TAT/homework-14-2.md)
 
-15.3. 	[Система тестирования. Расширенный функционал]
+14.3. 	[Система тестирования. Расширенный функционал](https://github.com/netology-code/onec-mid-homeworks/blob/main/TAT/homework-14-3.md)
 	
 	
 ## 15. Мобильная разработка 1С
 
-14.1	Методики разработки мобильных приложений
+15.1	Методики разработки мобильных приложений
 
-14.2	Инструмент разработки Eclipse
+15.2	Инструмент разработки Eclipse
 
-14.3	Обмен с серверной базой
+15.3	Обмен с серверной базой
 
