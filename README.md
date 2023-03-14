@@ -28,9 +28,9 @@
 
 13.4	Инструменты Git
 
-13.5	1C: EDT
+13.5	[1C: EDT](https://github.com/netology-code/onec-mid-homeworks/blob/main/OCEDT/homework-13-6.md)
 
-13.6	Командная работа (EDT)
+13.6	[Командная работа (EDT)](https://github.com/netology-code/onec-mid-homeworks/blob/main/OCEDT/homework-13-7.md)
 
 
 ## 14. Тестирование
