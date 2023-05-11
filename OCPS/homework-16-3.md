@@ -58,6 +58,8 @@
 
 ОБЯЗАТЕЛЬНО! В пользовательском режиме заведите тестовый пример, приведенный в [файле «16.3 Исходные данные_ОУ2 к домашнему заданию.xlsx»](https://docs.google.com/spreadsheets/d/1GIu8CDTVkhApLJyqHL_fHPxiop7J6lFa/edit?usp=share_link&ouid=116056574301476264521&rtpof=true&sd=true)
 
+ОБЯЗАТЕЛЬНО! В пользовательском режиме заведите тестовый пример, приведенный в [файле «16.3 Исходные данные_ОУ2 к домашнему заданию.xlsx»]
+(https://docs.google.com/spreadsheets/d/1f_eQ5SHa4NnxhArzfao1-wN8-HHRm4gC/edit?usp=sharing&ouid=108088713556619645145&rtpof=true&sd=true)
 ------
 
 ### Самостоятельное задание 
