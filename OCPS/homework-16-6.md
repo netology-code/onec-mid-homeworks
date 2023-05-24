@@ -40,9 +40,13 @@
 
 Необходимо построить отчет по себестоимости товаров за произвольный период.
 
-<<image.png форма отчета>>
+![image](https://github.com/netology-code/onec-mid-homeworks/assets/44517817/9e7ec6c6-8fb7-44ee-907e-f302880e328a)
 
-<<Пример для документов>>
+Вид печатной формы должен соответствовать заданию.
+
+Пример для документов:
+
+![image](https://github.com/netology-code/onec-mid-homeworks/assets/44517817/1e993ac2-90c0-430d-bf9a-fda81a47f81d)
 
 ------
 
