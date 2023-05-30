@@ -53,7 +53,7 @@
 
 Необходимо построить по состоянию взаиморасчетов с покупателями:
 
-![image](https://github.com/netology-code/onec-mid-homeworks/assets/44517817/be4d4b09-1499-4161-8a93-80d865c1b9bc)
+![image](https://github.com/netology-code/onec-mid-homeworks/assets/44517817/03555a81-6b13-4a68-a644-d8455c964d8d)
 
 Вид печатной формы должен соответствовать заданию.
 
