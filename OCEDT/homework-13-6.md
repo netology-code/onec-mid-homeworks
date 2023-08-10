@@ -28,15 +28,20 @@
   https://remontka.pro/environment-variables-windows/?ysclid=lc3alynrna477263717
 </details>
 5. Сделайте скриншот консоли с выполненной командой java -version, а так же, скриншот корректно установленных переменных среды JAVA_HOME и PATH
+
 6. Запустите установщик 1C:EDT от имени администратора и выполните установку
 <details>
   <summary>Документация по установке</summary>
   https://its.1c.ru/db/edtdoc#content:76:hdoc
 </details>
 7. Выполните настройку конфигурационного файла 1cedt.ini:
+
 7.1. Создайте в корне диска папку для временных файлов java
+
 7.2. Измените параметр Djava.io.tmpdir
+
 7.3. Измените параметр Xmx
+
 <details>
   <summary>Документация по настройке</summary>
   https://its.1c.ru/db/edtdoc/content/40/hdoc (см раздел "Импорт больших конфигураций")
