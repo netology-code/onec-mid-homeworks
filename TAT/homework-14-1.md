@@ -7,8 +7,8 @@
 
 ### Чеклист готовности к домашнему заданию
 
-* Установите учебную платформу версии 8.3.22 или больше.
-* Скачайте [архив](https://drive.google.com/file/d/1QnZ3fnGMaH7Uueg55w1jTK5fUyipZdEF/view?usp=share_link) с дистрибутивом Vanessa Automation (**этот дистрибутив для учебной версии платформы, в нём заменено обращения при подключении тест-клиента с файла 1cv8c.exe на 1cv8ct.exe**). Для остальных версий платформы необходимо скачать Vanessa Automation из [официального гит-репозитория](https://pr-mex.github.io/vanessa-automation/dev/)
+- [ ] Установить платформу версии 8.3.23 или больше.
+- [ ] Скачайте Vanessa Automation из [официального гит-репозитория](https://pr-mex.github.io/vanessa-automation/dev/)
 
 
 ### Задание 1
