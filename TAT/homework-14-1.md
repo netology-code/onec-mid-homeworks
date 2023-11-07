@@ -36,7 +36,7 @@
 
 
 ### Задание 3
-1. Установите библиотеку Vanessa Automation для учебной версии из [архива](https://drive.google.com/file/d/1QnZ3fnGMaH7Uueg55w1jTK5fUyipZdEF/view?usp=share_link). 
+1. Установите библиотеку Vanessa Automation (см. чек-лист для выбора нужной версии). 
 
 2. Настройте тестовую базу для работы с библиотекой тестирования Vanessa Automation. Для этого нужно снять безопасный режим и указать параметр /TESTMANAGER.
 
