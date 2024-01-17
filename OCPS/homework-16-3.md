@@ -57,7 +57,7 @@
 Вид печатной формы должен соответствовать заданию.
 
 
-Обязательно: в пользовательском режиме заведите тестовый пример, приведённый в [файле «16.3 Исходные данные_ОУ2 к домашнему заданию.xlsx»](https://docs.google.com/spreadsheets/d/1f_eQ5SHa4NnxhArzfao1-wN8-HHRm4gC/edit?usp=sharing&ouid=108088713556619645145&rtpof=true&sd=true).
+Обязательно: в пользовательском режиме заведите тестовый пример, приведённый в [файле «16.3 Исходные данные_ОУ2 к домашнему заданию.xlsx»](https://docs.google.com/spreadsheets/d/1_MYgXVHENZ9HWdtpWAzsoOwUwUOXY8e4/edit?usp=sharing&ouid=106667444700781920623&rtpof=true&sd=true).
 
 ------
 
