@@ -37,11 +37,9 @@
 
 
 ### Задание 3
-1. Установите библиотеку Vanessa Automation (см. чек-лист для выбора нужной версии)
+1. Скачайте фреймворк Vanessa Automation из официального [гит-репозитория ](https://pr-mex.github.io/vanessa-automation/dev/) Требуется скачать текущий мажорный релиз (файл vanessa-automation.1.2.XXX.X.zip или vanessa-automation-single.1.2.XXX.X.zip, где XXX.X - текущая актуальная версия) 
 
 2. Настройте тестовую базу для работы с библиотекой тестирования Vanessa Automation. Для этого нужно снять безопасный режим и указать параметр /TESTMANAGER.
-
-Если установка производится на другую версию платформы, то библиотеки можно скачать в [Vanessa Automation](https://pr-mex.github.io/vanessa-automation/dev/).
 
 *Результат задания* 
 
