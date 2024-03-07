@@ -56,7 +56,7 @@
 
 ![image](https://github.com/netology-code/onec-mid-homeworks/assets/44517817/c5b004ba-e80d-424d-98cb-3ebf5e65af59)
 
-Обязательно в пользовательском режиме заведите тестовый пример, приведённый в [файле «16.4. Исходные данные_ОУ3 к домашнему заданию.xlsx»](https://docs.google.com/spreadsheets/d/1sfbWzn1O4G2A3Jx6psvTa_7Va5kZHyDv/edit?usp=sharing&ouid=108088713556619645145&rtpof=true&sd=true).
+Обязательно в пользовательском режиме заведите тестовый пример, приведённый в [файле «16.4. Исходные данные_ОУ3 к домашнему заданию.xlsx»](https://u.netology.ru/backend/uploads/lms/content_assets/file/2132/16.4_%D0%98%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%9E%D0%A33_%D0%BA_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%BC%D1%83_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E.xlsx).
 
 ------
 
