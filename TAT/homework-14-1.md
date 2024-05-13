@@ -19,7 +19,7 @@
 
 3. Если команда не работает, перезагрузите ПК.
 
-4. Установите расширение (extension) для VSCode "Cucumber (Gherkin) Full Support"
+4. Установите расширение (extension) для VSCode "Cucumber (Gherkin) Full Support" (**важно!** расширение корректно подсвечивает синтаксис языка Gherkin только в файлах с расширением *.feature)
  
 *Результат задания*
 
