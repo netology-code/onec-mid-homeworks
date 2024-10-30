@@ -44,7 +44,7 @@
 
 <details>
   <summary>Документация по настройке</summary>
-  https://its.1c.ru/db/edtdoc/content/40/hdoc (см раздел "Импорт больших конфигураций")
+  https://its.1c.ru/db/edtdoc/content/10429/hdoc/ (см раздел "Импорт больших конфигураций")
 </details>
 
 8. Сделайте скриншот файла настроек
