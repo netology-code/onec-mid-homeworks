@@ -11,7 +11,7 @@
 
 ### Чеклист готовности к домашнему заданию:
 
-- [ ] Установить платформу версии 8.3.23 или больше.
+- [ ] Установить платформу версии 8.3.25 или больше.
 - [ ] Скачайте Vanessa Automation из [официального гит-репозитория](https://pr-mex.github.io/vanessa-automation/dev/)
 - [ ] Скачать и установить Visual Studio Code [VSCode](https://code.visualstudio.com/download),
 - [ ] Скачать и установить [OneScript](https://oscript.io/downloads).
